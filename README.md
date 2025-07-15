@@ -1,4 +1,5 @@
 # my-first-repository
 this is my first git hub repository
 we are learning github
+thanks for watching
 
