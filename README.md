@@ -1,4 +1,4 @@
 # my-first-repository
 this is my first git hub repository
-jvk
+we are learning github
 
